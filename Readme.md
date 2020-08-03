@@ -1,4 +1,4 @@
-# node-express-mongoo-template
+# MERN-template
 
 A simple template but works.
 
