@@ -28,7 +28,8 @@
     "express-validator": "^6.6.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.9.26",
-    "path": "^0.12.7"
+    "path": "^0.12.7",
+    "mquery": ">=3.2.3"
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
