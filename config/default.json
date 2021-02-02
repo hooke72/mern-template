@@ -1,6 +1,6 @@
 {
   "port" : 5000,
-  "mongoUri": "mongodb+srv://",
+  "mongoUri": "mongodb+srv://dbuser:nthty12@cluster0.zhswg.mongodb.net/",
   "jwtSecret": "jwtSecret",
   "minPasswordLength": 6,
   "jwtExpiresIn": "8h"
